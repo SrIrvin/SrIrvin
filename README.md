@@ -46,10 +46,10 @@ My professional philosophy revolves around **SOLID principles**, **Clean Code**,
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrIrvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="SrIrvin's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SrIrvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="SrIrvin's GitHub Stats" />
       </td>
       <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrIrvin&layout=compact&theme=tokyonight&langs_count=6" alt="SrIrvin's Top Languages" />
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SrIrvin&layout=compact&theme=tokyonight&langs_count=6" alt="SrIrvin's Top Languages" />
       </td>
     </tr>
   </table>
