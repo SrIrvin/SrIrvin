@@ -12,7 +12,7 @@
 
 ---
 
-### 📖 About Me
+### About Me
 
 I am a proactive and analytical **Software Engineer** with over 5 years of experience building full-stack web applications, serverless cloud architectures, and interactive 3D simulations in Unity. Currently, I am pursuing an **M.Sc. in Applied Computing** at CUCEI, Universidad de Guadalajara.
 
@@ -20,16 +20,16 @@ My professional philosophy revolves around **SOLID principles**, **Clean Code**,
 
 ---
 
-### 🚀 Key Focus Areas
+### Key Focus Areas
 
-- 🕹️ **Interactive Systems & Game Dev:** Architecting component-based and event-driven Unity 3D simulation systems. Former co-founder and director of the Video Game Development Club at ITCG.
-- ☁️ **Full-Stack & Serverless Cloud:** Building decoupled microservices, desktop tools, and serverless solutions on AWS (CDK, Lambda, DynamoDB, Cognito).
-- 🤖 **Generative AI & LLMs:** Integrating Gemini, OpenAI, and AWS Bedrock APIs with optimized context window utilization.
-- 📈 **Real-Time Data:** Leveraging Apache Kafka and Flink for data streaming applications.
+- **Interactive Systems & Game Dev:** Architecting component-based and event-driven Unity 3D simulation systems. Former co-founder and director of the Video Game Development Club at ITCG.
+- **Full-Stack & Serverless Cloud:** Building decoupled microservices, desktop tools, and serverless solutions on AWS (CDK, Lambda, DynamoDB, Cognito).
+- **Generative AI & LLMs:** Integrating Gemini, OpenAI, and AWS Bedrock APIs with optimized context window utilization.
+- **Real-Time Data:** Leveraging Apache Kafka and Flink for data streaming applications.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### Tech Stack & Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -40,7 +40,7 @@ My professional philosophy revolves around **SOLID principles**, **Clean Code**,
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
@@ -57,13 +57,13 @@ My professional philosophy revolves around **SOLID principles**, **Clean Code**,
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/irving-sanchez](https://linkedin.com/in/irving-sanchez)
-* 📧 **Email:** [SR._Irvin@HotMail.Com](mailto:SR._Irvin@HotMail.Com)
-* 💬 **WhatsApp:** [+52 (341) 135 19 37](https://wa.me/523411351937) *(WhatsApp Only - Please do not call unknown numbers)*
-* 🎮 **Game Jolt:** [@SR_Irving](https://gamejolt.com/@SR_Irving)
-* 🦊 **GitLab:** [@SrIrvin](https://gitlab.com/SrIrvin)
+* **LinkedIn:** [linkedin.com/in/irving-sanchez](https://linkedin.com/in/irving-sanchez)
+* **Email:** [SR._Irvin@HotMail.Com](mailto:SR._Irvin@HotMail.Com)
+* **WhatsApp:** [+52 (341) 135 19 37](https://wa.me/523411351937) *(WhatsApp Only - Please do not call unknown numbers)*
+* **Game Jolt:** [@SR_Irving](https://gamejolt.com/@SR_Irving)
+* **GitLab:** [@SrIrvin](https://gitlab.com/SrIrvin)
 
 ***
 
